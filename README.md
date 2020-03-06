@@ -7,4 +7,5 @@ Built with React and typescript
 To run the application clone the repository
 Change directory to the cloned repository
 when in the repository run `yarn install` to install all `dependencies`
-`yarn start` to start development server, visit the app in your browser in `localhost:3000`
+###
+`yarn start` to start development server, visit the app in your browser at `localhost:3000`
